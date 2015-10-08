@@ -238,6 +238,7 @@ footer .footer-right ul {margin: 0 auto; padding: 0; width: 240px; display: bloc
 footer .footer-right li {padding: 0 0 0 10%; width: 40%; float: left; font-size: 13px; line-height: 25px;}
 footer .footer-wrap .copyright{font-size: 13px; color: #656a7c; text-align: center;}
 
+/*mobile version*/
 
 @media (min-width: 480px) {	
 	.section-header h2 {white-space: nowrap;}
