@@ -20,6 +20,8 @@ a:hover {color: #888eab;}
 .section-header .h2 {width: 1%; }
 .section-header h2 {font-size: 30px; font-weight: lighter; color: #2a3451; white-space: normal; text-align: center; padding: 40px 20px; margin: 0; }
 
+/*header*/
+
 #container {overflow: hidden; position: relative; width: 100%; z-index: 1;}
 #content {background-color: #FFFFFF; padding: 52px 10px 10px 10px; position: relative; width: auto; height: 100%; }
 #hamburger {cursor: pointer; display: block; width: 30px; position: absolute; top: 33px; right: 33px; overflow: hidden; z-index: 20;} 
@@ -102,6 +104,8 @@ ul.menu-items ul.subsub-menu li:hover {background: #626c9f;}
 ul.header-items a.header-link:hover,
 footer h3 a:hover,
 li a:hover {color: #888eab; }
+
+/*main*/
 
 .page-main section.slider {max-width: none; position: relative;}
 #carousel1 .slides li,
@@ -211,6 +215,8 @@ section.prices {box-shadow: 0 3px 3px 1px #EAEAEA;}
 .otpr-forma input:-moz-placeholder      	{text-overflow:ellipsis; color: #9c9c9c; font-size: 12px; padding: 0 10px;} 
 .otpr-forma input:-ms-input-placeholder 	{text-overflow:ellipsis; color: #9c9c9c; font-size: 12px; padding: 0 10px;} 
 .otpr-forma button { height: 30px; line-height: normal; padding: 0 20px; width: 135px;}
+
+/*footer*/
 
 footer {background: url(../img/bg-footer.jpg) no-repeat; background-size: cover;}
 footer li {list-style: none; position: relative; font-size: 14px; }
